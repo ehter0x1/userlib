@@ -1,0 +1,73 @@
+2022-05-31 22:13:40.040 11452-11496/git.artdeell.skymodloader I/OpenGLRenderer: Davey! duration=126634ms; Flags=1, FrameTimelineVsyncId=45299, IntendedVsync=563958843983, Vsync=563969955094, InputEventId=0, HandleInputStart=563970292170, AnimationStart=563970297170, PerformTraversalsStart=563970298993, DrawStart=564030320509, FrameDeadline=563986555094, FrameInterval=563970245607, FrameStartTime=11111111, SyncQueued=564030819988, SyncStart=564030846394, IssueDrawCommandsStart=564030884311, SwapBuffers=564034485666, FrameCompleted=690593519315, DequeueBufferDuration=871875, QueueBufferDuration=4224115, GpuCompleted=690593519315, SwapBuffersCompleted=564038744312, DisplayPresentTime=0, 
+2022-05-31 22:13:40.086 11452-11496/git.artdeell.skymodloader I/OpenGLRenderer: Davey! duration=126481ms; Flags=0, FrameTimelineVsyncId=45349, IntendedVsync=564146434171, Vsync=564146434171, InputEventId=0, HandleInputStart=564150024219, AnimationStart=564150026354, PerformTraversalsStart=564150308229, DrawStart=564196412609, FrameDeadline=564174145282, FrameInterval=564149999688, FrameStartTime=11111111, SyncQueued=564196444380, SyncStart=564196964380, IssueDrawCommandsStart=564196992505, SwapBuffers=564201030266, FrameCompleted=690628226193, DequeueBufferDuration=3206667, QueueBufferDuration=473907, GpuCompleted=690628226193, SwapBuffersCompleted=564201532193, DisplayPresentTime=0, 
+2022-05-31 22:13:46.969 12572-12572/? I/ll.skymodloade: Late-enabling -Xcheck:jni
+2022-05-31 22:13:46.986 12572-12572/? D/ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-05-31 22:13:47.047 12572-12572/git.artdeell.skymodloader D/CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10174; state: DISABLED
+2022-05-31 22:13:47.070 12572-12572/git.artdeell.skymodloader V/GraphicsEnvironment: ANGLE Developer option for 'git.artdeell.skymodloader' set to: 'default'
+2022-05-31 22:13:47.071 12572-12572/git.artdeell.skymodloader V/GraphicsEnvironment: ANGLE GameManagerService for git.artdeell.skymodloader: false
+2022-05-31 22:13:47.071 12572-12572/git.artdeell.skymodloader V/GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+2022-05-31 22:13:47.073 12572-12572/git.artdeell.skymodloader D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2022-05-31 22:13:47.074 12572-12572/git.artdeell.skymodloader D/NetworkSecurityConfig: No Network Security Config specified, using platform default
+2022-05-31 22:13:47.084 12572-12603/git.artdeell.skymodloader D/vulkan: searching for layers in '/data/app/~~snM7yMyf0mcIiJuy2RQ-FA==/git.artdeell.skymodloader-chTm84CCWxEmtEIdHenlrw==/lib/arm64'
+2022-05-31 22:13:47.084 12572-12603/git.artdeell.skymodloader D/vulkan: searching for layers in '/data/app/~~snM7yMyf0mcIiJuy2RQ-FA==/git.artdeell.skymodloader-chTm84CCWxEmtEIdHenlrw==/base.apk!/lib/arm64-v8a'
+2022-05-31 22:13:47.085 12572-12603/git.artdeell.skymodloader D/hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-05-31 22:13:47.089 12572-12603/git.artdeell.skymodloader I/AdrenoVK-0: ===== BEGIN DUMP OF OVERRIDDEN SETTINGS =====
+2022-05-31 22:13:47.089 12572-12603/git.artdeell.skymodloader I/AdrenoVK-0: ===== END DUMP OF OVERRIDDEN SETTINGS =====
+2022-05-31 22:13:47.089 12572-12603/git.artdeell.skymodloader I/AdrenoVK-0: QUALCOMM build          : c955512, I7f951b4bce
+    Build Date              : 04/20/21
+    Shader Compiler Version : EV031.32.02.07
+    Local Branch            : 
+    Remote Branch           : refs/tags/AU_LINUX_ANDROID_LA.UM.9.1.R1.11.00.00.604.067
+    Remote Branch           : NONE
+    Reconstruct Branch      : NOTHING
+2022-05-31 22:13:47.089 12572-12603/git.artdeell.skymodloader I/AdrenoVK-0: Build Config            : S P 10.0.6 AArch64
+2022-05-31 22:13:47.089 12572-12603/git.artdeell.skymodloader I/AdrenoVK-0: Driver Path             : /vendor/lib64/hw/vulkan.adreno.so
+2022-05-31 22:13:47.150 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: liblog.so
+2022-05-31 22:13:47.150 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libEGL.so
+2022-05-31 22:13:47.150 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libGLESv2.so
+2022-05-31 22:13:47.150 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libm.so
+2022-05-31 22:13:47.150 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libc++_shared.so
+2022-05-31 22:13:47.176 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libc.so
+2022-05-31 22:13:47.176 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libdl.so
+2022-05-31 22:13:47.176 12572-12572/git.artdeell.skymodloader I/ElfLoader: Loading library libc++_shared.so
+2022-05-31 22:13:47.178 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libdl.so
+2022-05-31 22:13:47.178 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libc.so
+2022-05-31 22:13:47.178 12572-12572/git.artdeell.skymodloader I/ElfLoader: Loading library libciphered.so
+2022-05-31 22:13:47.179 12572-12572/git.artdeell.skymodloader I/A64_HOOK: insns pool initialized.
+2022-05-31 22:13:47.180 12572-12606/git.artdeell.skymodloader I/A64_HOOK: inline hook 0x74667a6fc0->0x7457611ec0 successfully! 20 bytes overwritten
+2022-05-31 22:13:47.216 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libc++_shared.so
+2022-05-31 22:13:47.216 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: liblog.so
+2022-05-31 22:13:47.216 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libfmod.so
+2022-05-31 22:13:47.220 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: liblog.so
+2022-05-31 22:13:47.220 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libstdc++.so
+2022-05-31 22:13:47.220 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libm.so
+2022-05-31 22:13:47.220 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libc.so
+2022-05-31 22:13:47.220 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libdl.so
+2022-05-31 22:13:47.220 12572-12572/git.artdeell.skymodloader I/ElfLoader: Loading library libfmod.so
+2022-05-31 22:13:47.221 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libfmodstudio.so
+2022-05-31 22:13:47.224 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: liblog.so
+2022-05-31 22:13:47.224 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libfmod.so
+2022-05-31 22:13:47.224 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libstdc++.so
+2022-05-31 22:13:47.224 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libm.so
+2022-05-31 22:13:47.224 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libc.so
+2022-05-31 22:13:47.224 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libdl.so
+2022-05-31 22:13:47.224 12572-12572/git.artdeell.skymodloader I/ElfLoader: Loading library libfmodstudio.so
+2022-05-31 22:13:47.225 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libz.so
+2022-05-31 22:13:47.225 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libandroid.so
+2022-05-31 22:13:47.226 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libEGL.so
+2022-05-31 22:13:47.226 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libm.so
+2022-05-31 22:13:47.226 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libdl.so
+2022-05-31 22:13:47.226 12572-12572/git.artdeell.skymodloader I/ElfSequencer: Needed: libc.so
+2022-05-31 22:13:47.226 12572-12572/git.artdeell.skymodloader I/ElfLoader: Loading library libBootloader.so
+2022-05-31 22:13:47.231 12572-12572/git.artdeell.skymodloader E/ll.skymodloade: No implementation found for void git.artdeell.skymodloader.MainActivity.settle() (tried Java_git_artdeell_skymodloader_MainActivity_settle and Java_git_artdeell_skymodloader_MainActivity_settle__)
+2022-05-31 22:13:47.283 12572-12572/git.artdeell.skymodloader W/ll.skymodloade: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2022-05-31 22:13:47.284 12572-12572/git.artdeell.skymodloader W/ll.skymodloade: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2022-05-31 22:13:47.319 12572-12572/git.artdeell.skymodloader D/CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10174; state: ENABLED
+2022-05-31 22:13:47.396 12572-12603/git.artdeell.skymodloader D/hw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+2022-05-31 22:13:47.398 12572-12616/git.artdeell.skymodloader I/Gralloc4: Adding additional valid usage bits: 0x8202000
+2022-05-31 22:13:48.181 12572-12606/git.artdeell.skymodloader D/Mod_Menu: Initializing Hookxxx...
+2022-05-31 22:13:48.182 12572-12606/git.artdeell.skymodloader I/A64_HOOK: inline hook 0x73e6f85008->0x7457611518 successfully! 20 bytes overwritten
+2022-05-31 22:13:48.182 12572-12606/git.artdeell.skymodloader I/A64_HOOK: inline hook 0x73e7163cc8->0x74576116a4 successfully! 20 bytes overwritten
+2022-05-31 22:13:48.182 12572-12606/git.artdeell.skymodloader I/A64_HOOK: inline hook 0x73e7457d90->0x7457611c88 successfully! 20 bytes overwritten
+2022-05-31 22:13:48.993 12572-12588/git.artdeell.skymodloader W/System: A resource failed to call close. 
+2022-05-31 22:13:53.852 12572-12603/git.artdeell.skymodloader D/OpenGLRenderer: endAllActiveAnimators on 0xb400007584739370 (RippleDrawable) with handle 0xb400007494741bb0
